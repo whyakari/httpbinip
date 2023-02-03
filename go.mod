@@ -1,3 +1,3 @@
-module github.com/akarioficial/httpbinip
+module github.com/AkariOficial/httpbinip
 
 go 1.19
