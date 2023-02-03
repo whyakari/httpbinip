@@ -6,7 +6,6 @@ import (
 	"github.com/AkariOficial/httpbinip/ip"
 )
 
-
 func main() {
     ip, err := httpbin.GetIp()
 
