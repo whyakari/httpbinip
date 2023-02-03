@@ -7,7 +7,6 @@
 ```bash
  go get github.com/akarioficial/httpbinip@v0.5.1
 ```
----
 
 ### funcoes:
  - salva ip em um arquivo txt
