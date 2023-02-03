@@ -1,5 +1,5 @@
 // pacote pegar ip
-package httpbinip
+package httpbin
 
 import (
 	"io/ioutil"
