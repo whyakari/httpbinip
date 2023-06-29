@@ -1,5 +1,5 @@
-module github.com/AkariOficial/httpbinip
+module github.com/whyakari/httpbinip
 
 go 1.19
 
-require github.com/akarioficial/httpbinip v0.5.1 // indirect
+require github.com/whyakari/httpbinip v0.5.1 // indirect
