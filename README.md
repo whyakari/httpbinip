@@ -1,17 +1,15 @@
-### HttpBin IP
-> Pacote inútil que salva seu ip em um arquivo.txt
+## HttpBin IP
+> Useless package that saves your ip in a .txt file (:
 
----
-
-### instalação do script:
+### script installation:
 ```bash
- git clone https://github.com/AkariOficial/httpbinip; cd httpbinip
+git clone https://github.com/whyakari/httpbinip; cd httpbinip
 ```
 
-### instalação do pacote GO:
+### GO package installation:
 ```bash
- go get github.com/akarioficial/httpbinip@v0.5.1
+go get github.com/whyakari/httpbinip@v0.5.1
 ```
 
-### funcoes:
- - salva ip em um arquivo txt
+### functions (until now):
+ - save ip in a txt file
