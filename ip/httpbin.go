@@ -1,4 +1,4 @@
-// pacote pegar ip
+// ip package
 package httpbin
 
 import (
@@ -6,7 +6,7 @@ import (
 	"net/http"
 )
 
-// Função de pegar o ip 
+// function to get the ip
 func GetIp() (string, error) {
     resp, err := http.Get("http://httpbin.org/ip")
     if err != nil {
@@ -18,8 +18,5 @@ func GetIp() (string, error) {
     if err != nil {
         panic(err)
     }
-
     return string(body), nil
-
 }
-
