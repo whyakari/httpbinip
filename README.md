@@ -8,7 +8,7 @@ git clone https://github.com/whyakari/httpbinip; cd httpbinip
 
 ### GO package installation:
 ```bash
-go get github.com/whyakari/httpbinip@v0.5.1
+go get github.com/whyakari/httpbinip@v0.6
 ```
 
 ### functions (until now):
